@@ -1,0 +1,25 @@
+{
+  "name": "foamy",
+  "version": "0.1.0",
+  "description": "Lightweight React App Scaffold",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatiasFito/foamy.git"
+  },
+  "keywords": [
+    "React",
+    "create-react-app",
+    "scaffolding",
+    "yeoman"
+  ],
+  "author": "Matias Fito",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/MatiasFito/foamy/issues"
+  },
+  "homepage": "https://github.com/MatiasFito/foamy#readme"
+}
